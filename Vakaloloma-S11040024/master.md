@@ -1,4 +1,4 @@
-# PS 305 Health Psychology
+# PS 305 Health Psychology - "Understanding Health and Illness through Stress and Coping Theories"
 
 ## References
 
