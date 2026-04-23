@@ -12,10 +12,16 @@ Aljaffer et al. (2025) examined the relationship between coping strategies, stre
 
 Folkman and Lazarus (1980) examined how individuals cope with stressful events in daily life using a cognitive-phenomenological framework of stress. The study involved 100 middle-aged adults who reported their coping responses to stressful situations over one year through interviews and questionnaires. The findings showed that both problem-focused and emotion-focused coping were used in the majority of situations, with individuals often using both strategies together. Coping patterns varied depending on the context and how the situation was appraised, with problem-focused coping used when situations were controllable and emotion-focused coping used when situations had to be accepted. The study concluded that coping is a flexible and dynamic process influenced by situational factors. This study is relevant as it demonstrates that both problem-focused and emotion-focused coping play important roles depending on the nature of the stressor.
 
-#Park, C. L., & Adler, N. E. (2003). Coping style as a predictor of health and well-being across the first year of medical school. Health Psychology, 22(6), 627–631.
+#Reading 5:
 
-#Hart, P. M., Wearing, A. J., & Headey, B. (1995). Police stress and well-being: Integrating personality, coping and daily work experiences. Journal of Occupational and Organizational Psychology, 68(2), 133–156.
+Carver, Scheier, and Weintraub (1989) examined different coping strategies by developing a multidimensional coping inventory known as the COPE scale. The study involved participants across multiple stages, including undergraduate students, and used a quantitative approach with questionnaires to assess coping responses to stress. The findings identified several distinct coping strategies, including problem-focused coping, emotion-focused coping, and less effective coping responses such as behavioral disengagement. The results showed that individuals use a combination of coping strategies depending on both situational and personal factors. The study concluded that coping is a multidimensional and flexible process that cannot be explained by a single strategy. This study is relevant as it highlights the importance of both problem-focused and emotion-focused coping in managing stress.
 
-#Aljaffer, M. A., Almazam, A. A., Alzahrani, F. G., Alsultan, F. M., Alrasheed, A. M., Almousa, R. M., & Alsuhaibani, A. I. (2025). The relationship between coping strategies, stress, and anxiety among King Saud University medical students. Journal of Family Medicine and Primary Care, 14(4), 1169–1173.
+Park, C. L., & Adler, N. E. (2003). Coping style as a predictor of health and well-being across the first year of medical school. Health Psychology, 22(6), 627–631.
 
-#Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.
+Hart, P. M., Wearing, A. J., & Headey, B. (1995). Police stress and well-being: Integrating personality, coping and daily work experiences. Journal of Occupational and Organizational Psychology, 68(2), 133–156.
+
+Aljaffer, M. A., Almazam, A. A., Alzahrani, F. G., Alsultan, F. M., Alrasheed, A. M., Almousa, R. M., & Alsuhaibani, A. I. (2025). The relationship between coping strategies, stress, and anxiety among King Saud University medical students. Journal of Family Medicine and Primary Care, 14(4), 1169–1173.
+
+Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.
+
+Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: A theoretically based approach. Journal of Personality and Social Psychology, 56(2), 267–283.
