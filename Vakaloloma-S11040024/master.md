@@ -8,15 +8,15 @@ Park and Adler (2003) investigated how coping styles predict physical health and
 ## Reading 3:
 Aljaffer et al. (2025) examined the relationship between coping strategies, stress, and anxiety among medical students at King Saud University. The study involved 332 participants and used a quantitative cross-sectional design with a structured questionnaire to measure stress, anxiety, and coping strategies. The findings showed that most students experienced moderate to high levels of stress and anxiety, with academic stressors being the most common. Problem-focused coping strategies such as planning and seeking social support were more frequently used than emotion-focused coping strategies. Additionally, coping strategies were negatively associated with anxiety, indicating their role in reducing stress. The study concluded that coping strategies are important in managing stress and improving student well-being. This study is relevant as it highlights the effectiveness of problem-focused coping in reducing anxiety and supporting psychological well-being.
 
-#Reading 4
+##Reading 4
 
 Folkman and Lazarus (1980) examined how individuals cope with stressful events in daily life using a cognitive-phenomenological framework of stress. The study involved 100 middle-aged adults who reported their coping responses to stressful situations over one year through interviews and questionnaires. The findings showed that both problem-focused and emotion-focused coping were used in the majority of situations, with individuals often using both strategies together. Coping patterns varied depending on the context and how the situation was appraised, with problem-focused coping used when situations were controllable and emotion-focused coping used when situations had to be accepted. The study concluded that coping is a flexible and dynamic process influenced by situational factors. This study is relevant as it demonstrates that both problem-focused and emotion-focused coping play important roles depending on the nature of the stressor.
 
-#Reading 5:
+##Reading 5:
 
 Carver, Scheier, and Weintraub (1989) examined different coping strategies by developing a multidimensional coping inventory known as the COPE scale. The study involved participants across multiple stages, including undergraduate students, and used a quantitative approach with questionnaires to assess coping responses to stress. The findings identified several distinct coping strategies, including problem-focused coping, emotion-focused coping, and less effective coping responses such as behavioral disengagement. The results showed that individuals use a combination of coping strategies depending on both situational and personal factors. The study concluded that coping is a multidimensional and flexible process that cannot be explained by a single strategy. This study is relevant as it highlights the importance of both problem-focused and emotion-focused coping in managing stress.
 
-Critique and Comparison of Coping Strategies
+##Critique and Comparison of Coping Strategies
 
 Research on coping strategies consistently highlights the importance of both problem-focused and emotion-focused coping, although their effectiveness varies across contexts. Studies such as Hart et al. (1995) and Aljaffer et al. (2025) strongly support the effectiveness of problem-focused coping, showing that it is associated with positive psychological outcomes and reduced stress levels. These findings suggest that actively addressing stressors through planning, problem-solving, and seeking support is generally more beneficial than focusing solely on emotional regulation. However, Park and Adler (2003) provide a more balanced perspective, demonstrating that both problem-focused coping and certain forms of emotion-focused coping can contribute to better physical health outcomes. Similarly, Folkman and Lazarus (1980) argue that coping is situational, with problem-focused coping being more effective in controllable situations, while emotion-focused coping is more appropriate when stressors cannot be changed. This indicates that the effectiveness of coping strategies depends on the nature of the stressor rather than one strategy being universally superior.
 
@@ -24,7 +24,7 @@ Despite these valuable insights, the studies also have several limitations that 
 
 Overall, the evidence suggests that problem-focused coping is generally more effective in managing stress, particularly in situations where individuals have control over the stressor. However, emotion-focused coping remains important, especially in situations that require acceptance or emotional regulation. Therefore, coping should be understood as a flexible and dynamic process in which individuals use different strategies depending on the context. This integrated perspective provides a more comprehensive understanding of how individuals manage stress and maintain psychological well-being.
 
-Reference
+##Reference
 
 Park, C. L., & Adler, N. E. (2003). Coping style as a predictor of health and well-being across the first year of medical school. Health Psychology, 22(6), 627–631.
 
