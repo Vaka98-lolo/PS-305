@@ -26,12 +26,20 @@ Overall, the evidence suggests that problem-focused coping is generally more eff
 
 ##Reference
 
-Park, C. L., & Adler, N. E. (2003). Coping style as a predictor of health and well-being across the first year of medical school. Health Psychology, 22(6), 627–631.
-
-Hart, P. M., Wearing, A. J., & Headey, B. (1995). Police stress and well-being: Integrating personality, coping and daily work experiences. Journal of Occupational and Organizational Psychology, 68(2), 133–156.
-
 Aljaffer, M. A., Almazam, A. A., Alzahrani, F. G., Alsultan, F. M., Alrasheed, A. M., Almousa, R. M., & Alsuhaibani, A. I. (2025). The relationship between coping strategies, stress, and anxiety among King Saud University medical students. Journal of Family Medicine and Primary Care, 14(4), 1169–1173.
+
+Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: A theoretically based approach. Journal of Personality and Social Psychology, 56(2), 267–283.
 
 Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.Folkman, S., & Lazarus, R. S. (1980). An analysis of coping in a middle-aged community sample. Journal of Health and Social Behavior, 21(3), 219–239.
 
-Carver, C. S., Scheier, M. F., & Weintraub, J. K. (1989). Assessing coping strategies: A theoretically based approach. Journal of Personality and Social Psychology, 56(2), 267–283.
+Hart, P. M., Wearing, A. J., & Headey, B. (1995). Police stress and well-being: Integrating personality, coping and daily work experiences. Journal of Occupational and Organizational Psychology, 68(2), 133–156.
+
+Park, C. L., & Adler, N. E. (2003). Coping style as a predictor of health and well-being across the first year of medical school. Health Psychology, 22(6), 627–631.
+
+
+
+
+
+
+
+
