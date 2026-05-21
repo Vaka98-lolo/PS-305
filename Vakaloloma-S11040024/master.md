@@ -24,11 +24,11 @@ Despite these valuable insights, the studies also have several limitations that 
 
 Overall, the evidence suggests that problem-focused coping is generally more effective in managing stress, particularly in situations where individuals have control over the stressor. However, emotion-focused coping remains important, especially in situations that require acceptance or emotional regulation. Therefore, coping should be understood as a flexible and dynamic process in which individuals use different strategies depending on the context. This integrated perspective provides a more comprehensive understanding of how individuals manage stress and maintain psychological well-being.
 
-#Introduction:
+**Introduction**
 
 Stress is a common experience that affects individuals in academic, occupational, and personal settings. The way people respond to stress can significantly influence their psychological well-being, physical health, and overall quality of life. Coping strategies refer to the cognitive and behavioural efforts individuals use to manage stressful situations and emotional challenges. Among the most widely discussed coping strategies are problem-focused coping and emotion-focused coping. Problem-focused coping aims to directly address the source of stress through actions such as planning, seeking information, and problem-solving, whereas emotion-focused coping attempts to regulate emotional responses to stress through acceptance, emotional support, or avoidance. Although both coping strategies are commonly used, researchers continue to debate which strategy is more effective in promoting psychological well-being. This paper argues that problem-focused coping is generally more effective in reducing stress and improving well-being; however, emotion-focused coping also plays an important role in situations where stressors cannot be directly controlled. Through the analysis of empirical studies, this paper demonstrates that coping is a flexible and context-dependent process.
 
-#Discussion of Coping Strategies:
+**Discussion of Coping Strategies**
 
 Research consistently shows that problem-focused coping contributes positively to psychological well-being and stress management. Hart, Wearing, and Headey (1995) examined psychological well-being among police officers using a Perceived Quality of Life (PQOL) framework. Their study involved 527 participants and used structural equation modelling to analyse questionnaire data. The findings revealed that problem-focused coping was associated with positive work experiences and improved psychological well-being, whereas emotion-focused coping was linked to negative outcomes. These results suggest that actively addressing stressors allows individuals to gain greater control over stressful situations, leading to more positive psychological outcomes.
 
@@ -40,7 +40,7 @@ Folkman and Lazarus (1980) provide additional support for the situational nature
 
 Furthermore, Carver, Scheier, and Weintraub (1989) expanded the understanding of coping by developing the multidimensional COPE inventory. Their study identified several distinct coping strategies, including problem-focused coping, emotion-focused coping, and less effective coping responses such as behavioural disengagement. The findings demonstrated that individuals often use multiple coping strategies depending on personal and situational factors. This challenges the assumption that one coping strategy is universally superior and highlights the complexity of human coping behaviour.
 
-#Critique and Evaluation:
+**Critique and Evaluation**
 
 Although the reviewed studies provide valuable insights into coping strategies, several limitations should be considered. One major limitation is the reliance on self-report questionnaires, which may introduce bias due to inaccurate memory or socially desirable responses. Participants may underreport ineffective coping strategies or exaggerate positive behaviours. As a result, the accuracy of the findings may be affected.
 
@@ -50,11 +50,11 @@ Additionally, categorising coping strategies strictly into problem-focused and e
 
 Despite these limitations, the overall findings consistently suggest that problem-focused coping is generally more effective in situations where individuals can directly influence the stressor. At the same time, emotion-focused coping remains valuable in helping individuals regulate emotions during uncontrollable situations. Therefore, an integrated approach that combines both coping strategies provides a more comprehensive understanding of stress management and psychological well-being.
 
-#Conclusion:
+**Conclusion**
 
 In conclusion, coping strategies play a critical role in determining how individuals respond to stress and maintain psychological well-being. The studies reviewed in this paper demonstrate that problem-focused coping is generally more effective in reducing stress and promoting positive outcomes, particularly when individuals have control over stressful situations. However, emotion-focused coping also serves an important function in helping individuals manage emotional distress when stressors cannot be changed. The evidence suggests that coping is not a fixed process but rather a flexible and context-dependent response to stress. Understanding the strengths and limitations of different coping strategies can help individuals develop healthier ways of managing stress and improving their overall well-being.
 
-#Reference:
+**Reference**
 
 Aljaffer, M. A., Almazam, A. A., Alzahrani, F. G., Alsultan, F. M., Alrasheed, A. M., Almousa, R. M., & Alsuhaibani, A. I. (2025). The relationship between coping strategies, stress, and anxiety among King Saud University medical students. Journal of Family Medicine and Primary Care, 14(4), 1169–1173.
 
