@@ -1,5 +1,5 @@
 # PS 305 Health Psychology - “Problem-Focused vs Emotion-Focused Coping: A Comparative Analysis of Stress and Coping Strategies”
-## Reading 1:     
+## Reading 1:    
 Hart, Wearing, and Headey (1995) examined psychological well-being among police officers using a Perceived Quality of Life (PQOL) framework. The study involved 527 participants and applied a quantitative approach using structural equation modelling to analyse questionnaire data. The findings revealed that both positive and negative work experiences significantly influenced well-being, with organisational factors being more impactful than operational factors. Additionally, personality traits such as neuroticism and extraversion were strong predictors of psychological well-being. Coping strategies also played a key role, with problem-focused coping linked to positive work experiences, while emotion-focused coping was associated with negative outcomes. The study concluded that coping strategies significantly influence psychological well-being, highlighting the effectiveness of problem-focused coping.
 
 ## Reading 2: 
